@@ -33,7 +33,7 @@ async def echo(message: types.Message): #async is taking the input that we provi
 if __name__=="__main__":
     executor.start_polling(dp,skip_updates=True)
     
-    
+# Now implement Open AI with the bot     
 
 
 
